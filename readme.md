@@ -1,5 +1,5 @@
-## Hello, Charan,git!
+## Welcome to git!
 
--Yo charan here
+-This is coming from `Kumar`
 
 -I'm adding this from `feature-branch`
